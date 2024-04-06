@@ -2,7 +2,7 @@
 
 ## About me 📝
 - I'm passionate about creating dynamic web applications and robust desktop solutions.
-- I'm particularly fond of JavaScript and C#, especially React, Angular, and WPF for the client side, and Node.js, ASP.NET for the server side.
+- Particularly fond of JavaScript and C#, especially React, Angular, and WPF for the client side, and Node.js, ASP.NET for the server side.
 - Constantly learning new technologies and enriching my knowledge base.
 
 ## Current Focus 💻
