@@ -6,8 +6,8 @@
 - Constantly learning new technologies and enriching my knowledge base.
 
 ## Current Focus 💻
-- Currently working on Chess Chatter - a messaging app that combines the excitement of chess with seamless communication.
-- In addition, I'm also working on a WhatsApp bot that sends wedding invitations, and logs responses in a dedicated CSV file.
+- Currently working on Chess Chatter - a messaging app that combines the excitement of online chess with seamless communication between users.
+- In addition, I'm also working on a WhatsApp bot that sends wedding invitations, and logs recipients' responses to a dedicated CSV file. 
 
 ## Seeking Opportunities 🔍
 - I'm actively seeking opportunities to contribute my expertise in React, WPF, Node.js, and ASP.NET MVC.
