@@ -10,5 +10,5 @@
 - I'm also working on a WhatsApp bot that sends wedding invitations, and logs recipients' responses to a dedicated CSV file. 
 
 ## Seeking Opportunities 🔍
-- I'm actively seeking opportunities to contribute my expertise in React, WPF, Node.js, and ASP.NET MVC.
+- I'm actively seeking opportunities to contribute my expertise in React, WPF, Node.js, and ASP.NET.
 - If you have a project where my skills could make a difference, I'd love to connect and explore possibilities.
